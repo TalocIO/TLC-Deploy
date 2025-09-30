@@ -1,0 +1,15 @@
+{
+  "network": "polygon-mainnet",
+  "timestamp": "2025-09-30T00:05:24.544Z",
+  "wrapperAddress": "0x0e2d757d7344CE493f9D30b3E7f2ad8017F6dd2b",
+  "implementationAddress": "0x69Feb805abc5E19EBb21D613E21CCd9F1f630E50",
+  "proxyAdminAddress": "0x0000000000000000000000000000000000000000",
+  "talocErc1155Address": "0x30a23bfab2fD8aD57C6B1D456C2fD878672762b7",
+  "deployer": "0x46CCd7b0d8B99DE5a0E5b3c7E5908e7ecFd3148C",
+  "transactionHash": "0xa910bbd332cad0fc1b151b76ebb08f0b520c1dd776b3d32c3d5a910f8f83a116",
+  "configuration": {
+    "name": "Wrapped Taloc",
+    "symbol": "wTLC",
+    "feeRecipient": "0x0000000000000000000000000000000000000000"
+  }
+}

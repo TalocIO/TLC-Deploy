@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-09-29T23:14:32.712Z",
+  "network": "test",
+  "contracts": {
+    "taloc": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+    "wrapper": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+  },
+  "accounts": {
+    "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "virtualTester": "0x1BBdB23986a5DE193834B39af8205dc7C999Cc0f"
+  },
+  "finalBalances": {
+    "deployer": {
+      "TLC": "249993970000000000000000000",
+      "wTLC": "1020000000000000000000"
+    },
+    "virtualTester": {
+      "TLC": "4596500000000000000000",
+      "wTLC": "322875000000000000000"
+    },
+    "wrapper": {
+      "TLC": "1400505000000000000000"
+    }
+  },
+  "testSummary": "All wrapper functionality tested successfully using only deployer address"
+}

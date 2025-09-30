@@ -1,0 +1,14 @@
+{
+  "network": "polygon-amoy",
+  "timestamp": "2025-09-29T23:41:04.257Z",
+  "talocErc1155Address": "0x30a23bfab2fD8aD57C6B1D456C2fD878672762b7",
+  "wrapperAddress": "0xbC04d531D761460ECDa0d08b54a34DFf90e45238",
+  "implementationAddress": "0x69Feb805abc5E19EBb21D613E21CCd9F1f630E50",
+  "deployer": "0x46CCd7b0d8B99DE5a0E5b3c7E5908e7ecFd3148C",
+  "transactionHash": "0xc6de5f386e50274d88acce63b02525f512dbead66bb07b16a2da5210de8ff77a",
+  "configuration": {
+    "name": "Wrapped Taloc",
+    "symbol": "wTLC",
+    "feeRecipient": "0x0000000000000000000000000000000000000000"
+  }
+}
